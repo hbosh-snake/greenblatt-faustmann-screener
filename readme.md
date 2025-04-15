@@ -241,7 +241,7 @@ greenblatt_magic_formula/
 
 Run it as:
 ```bash
-python -m greenblatt.main
+python -m main
 ```
 
 ---
@@ -257,20 +257,8 @@ python -m greenblatt.main
 
 ---
 
-## Contributing
-
-1. **Fork** the repository.
-2. Create a **feature branch** for your updates (`git checkout -b new-feature`).
-3. **Commit** your changes (`git commit -m "Add some feature"`).
-4. **Push** to your branch (`git push origin new-feature`).
-5. Open a **Pull Request**.
-
----
-
 ## License
 
-This project is open-source; feel free to adapt it to your own needs. See the [LICENSE](LICENSE) file for details (if provided).
+This project is open-source; feel free to adapt it to your own needs.
 
 ---
-
-**Happy coding and investing!** Feel free to reach out with any issues or suggestions.
