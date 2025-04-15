@@ -87,7 +87,7 @@ This project aims to **automate** the process of retrieving and calculating rele
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/greenblatt_magic_formula.git
+   git clone https://github.com/hbosh-snake/greenblatt-faustmann-screener.git
    cd greenblatt_magic_formula
    ```
 
