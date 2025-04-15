@@ -39,8 +39,6 @@ MARKET_CAPS = [
     250, 500, 1000, 1500, 2500, 5000, 10000,
     25000, 50000, 75000, 100000, 250000, 500000
 ]
-# Path to the WebDriver executable
-DRIVER_PATH = "C:\\Users\\Emanuele\\chromedriver-win64\\chromedriver.exe"
 
 USERNAME = os.getenv("MAGIC_FORMULA_USERNAME")
 PASSWORD = os.getenv("MAGIC_FORMULA_PASSWORD")
